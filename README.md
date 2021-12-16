@@ -1,4 +1,4 @@
-Author: Nguyen Trung Hau<br>
+Author: Nguyễn Trung Hậu<br>
 Email: ken.hdpro@gmail.com<br>
 Facebook: http://fb.com/irf1404<br>
 
