@@ -1,6 +1,6 @@
-Author: Nguyen Trung Hau
-Email: ken.hdpro@gmail.com
-Facebook: http://fb.com/irf1404
+Author: Nguyen Trung Hau<br>
+Email: ken.hdpro@gmail.com<br>
+Facebook: http://fb.com/irf1404<br>
 
 # COMMON PRE-INSTALL COMMANDS
 ```
