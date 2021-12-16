@@ -20,12 +20,12 @@ crontabs file kernel-headers ipset
 # INSTALL DIRECTADMIN
 ```
 # Directadmin 1.443
-wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1443.sh" && chmod +x setup.sh && ./setup.sh 2>&1|tee directadmin_inѕtall.log
+wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1443.sh" && chmod +x setup.sh && ./setup.sh
 
 # Directadmin 1.532 For Centos6
-wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1532-centos6.sh" && chmod +x setup.sh && ./setup.sh 2>&1|tee directadmin_inѕtall.log
+wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1532-centos6.sh" && chmod +x setup.sh && ./setup.sh
 
 # Directadmin 1.604 For Centos7
-wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1604-centos7.sh" && chmod +x setup.sh && ./setup.sh 2>&1|tee directadmin_inѕtall.log
+wget -O setup.sh "https://raw.githubusercontent.com/irf1404/DA/master/da-1604-centos7.sh" && chmod +x setup.sh && ./setup.sh
 
 ```
