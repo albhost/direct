@@ -1,1 +1,1 @@
-curl -O http://vestacp.com/pub/vst-install-ubuntu.sh && bash vst-install-ubuntu.sh --nginx no --apache yes --phpfpm no --named yes --remi yes --vsftpd no --proftpd yes --iptables yes --fail2ban yes --quota yes --exim yes --dovecot yes --spamassassin yes --clamav yes --softaculous yes --mysql yes --postgresql no --hostname server.nguyentrunghau.net --email ken.hdpro@gmail.com --password @/HauPro113
+wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sudo bash install.sh aapanel
